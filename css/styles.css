@@ -259,7 +259,7 @@ html,body {
 }
 
 .about {
-  background-image: url('../assets/images/milad-fakurian-GJKx5lhwU3M-unsplash.jpg');
+  background-image: url('/portfolio/assets/images/milad-fakurian-GJKx5lhwU3M-unsplash.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: scroll; /* Modification ici */
@@ -472,7 +472,7 @@ html,body {
   border: 0;
 }
 .productions {
-  background-image: url('../assets/images/milad-fakurian-GJKx5lhwU3M-unsplash.jpg');
+  background-image: url('/portfolio/assets/images/milad-fakurian-GJKx5lhwU3M-unsplash.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: scroll; /* Modification ici */
@@ -622,7 +622,7 @@ margin-bottom: 50px;
 }
 
 .tableau {
-  background-image: url('../assets/images/milad-fakurian-GJKx5lhwU3M-unsplash.jpg');
+  background-image: url('/portfolio/assets/images/milad-fakurian-GJKx5lhwU3M-unsplash.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: scroll; /* Modification ici */
